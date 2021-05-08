@@ -20,5 +20,5 @@
 10. Fare il merge  del branch secondario sul branch proprioCognome_VerificaTPS, correggendo gli eventuali conflitti segnalati nel modo che si ritiene più opportuno.  Associare  il messaggio  “Merge con correzione  conflitti: …………” Al posto dei puntini scrivere in modo sintetico, nel messaggio salvato, la scelta effettuata  per la correzione dell’eventuale conflitto.
 RIPORTARE COMANDO  SUL FOGLIO
 
-11. Fare il pull del progetto nel repository remoto su GitHub.
+11. Fare il push del progetto nel repository remoto su GitHub.
 RIPORTARE COMANDO  SUL FOGLIO
